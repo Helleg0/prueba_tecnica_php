@@ -1,0 +1,51 @@
+.errorFields{
+    color: red;
+    font-style: italic;    
+}
+
+#errorUsername{
+    display: none;
+}
+
+#errorUsername2{
+    display: none;
+}
+
+#errorEmail{
+    display: none;
+}
+
+#errorEmail2{
+    display: none;
+}
+
+#errorEmail3{
+    display: none;
+}
+
+#errorPassword1{
+    display: none;
+}
+
+#errorPassword2{
+    display: none;
+}
+
+#errorPassword3{
+    display: none;
+}
+
+#errorFile{
+    display: none;
+}
+
+#errorFile2{
+    display: none;
+}
+
+#errorFile3{
+    display: none;
+}
+
+
+

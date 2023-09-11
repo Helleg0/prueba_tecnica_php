@@ -1,0 +1,84 @@
+#card{
+    background-color: rgb(41, 39, 39);
+    width: 200px;
+    height: 375px;
+    border: solid rgba(255, 255, 0, 0.521) 1px;
+    margin-top: 25px;
+    margin-left: 20px;
+    display: inline-table;
+    box-shadow: 0 0 6px #444444;
+    align-items: flex-end;
+    position: relative;
+    
+  }
+  
+  .imgCard{
+    width: 180px;
+    height: 220px;
+    border-radius: 3%;
+    margin-top: 15px;
+  }
+  
+  .name{
+     font-family: Arial, Helvetica, sans-serif; 
+     position: absolute;
+     text-align: center;
+     margin-top: 20px;
+     margin-bottom: 5px;
+     font-size: 18px;
+     color:rgb(255, 255, 255);
+  }
+  
+  .info{
+      font-size: 10px;
+      color: rgb(168, 168, 168);
+      font-family: Arial, Helvetica, sans-serif; 
+      position: relative;
+      padding-top: 10px;
+      text-align: center;
+  }
+  
+  
+  
+  .inactivate{
+      margin-top: 70px;
+      width: 180px;
+      height: 35px;
+      text-align: center;
+      color: black;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      transition: .5s;
+      background-color: rgb(197, 16, 16);
+      font-size: 15px;
+  }
+  
+  .inactivate:hover{
+      color:#fff;
+  }
+  
+  .dislike{
+      position: relative;
+      margin-left: 12px;
+      width: 80px;
+      height: 35px;
+      text-align: center;
+      color: black;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      transition: .5s;
+      background-color: rgb(233, 14, 14);
+      font-size: 15px;
+  }
+  
+  .dislike:hover{
+      color:#fff;
+  }
+  
+  
+  
+  a{
+      color: rgb(129, 129, 255);
+  }
